@@ -1,4 +1,4 @@
 # calculator-dg-
-this my first calculator.
+This my first calculator.
 <br>
-author - dakshathg
+Author - dakshathg
